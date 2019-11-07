@@ -1,4 +1,3 @@
-
 Piano Sounds and Program:
 https://www.bioee.ee.columbia.edu/courses/ee3082/piano/lesson_backup.html
 
@@ -7,3 +6,22 @@ https://www.doulos.com/knowhow/vhdl_designers_guide/models/sine_wave_generator/
 
 if else statement tutorials:
 http://web.engr.oregonstate.edu/~traylor/ece474/vhdl_lectures/essential_vhdl_pdfs/essential_vhdl61-76.pdf
+
+How to make rectangles: http://ece320web.groups.et.byu.net/labs/VGAObjectDisplay/VGA_Object_Display.html
+
+For example, the following two lines of VHDL define a white rectangle that is 100 pixels wide and 50 pixels high. 
+
+rectangle_on <= '1' when pixel_x >= 150 and pixel_x <= 250 and 
+                         pixel_y >= 100 and pixel_y <= 150 
+                  else '0';
+rectangle_rgb <= "111";
+
+Score counter needed 
+
+if(block is hit) {
+block dies 
+score++; 
+}
+else{
+nothing happens
+}
