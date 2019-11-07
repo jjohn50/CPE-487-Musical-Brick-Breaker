@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Nov  7 12:56:12 2019
+# Process ID: 7664
+# Current directory: C:/Users/justi/Desktop/CPE-487-Musical-Brick-Breaker/Lab 6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17268 C:\Users\justi\Desktop\CPE-487-Musical-Brick-Breaker\Lab 6\Lab 6.xpr
+# Log file: C:/Users/justi/Desktop/CPE-487-Musical-Brick-Breaker/Lab 6/vivado.log
+# Journal file: C:/Users/justi/Desktop/CPE-487-Musical-Brick-Breaker/Lab 6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/justi/Desktop/CPE-487-Musical-Brick-Breaker/Lab 6/Lab 6.xpr}
+IINFO: [Project 1-313] Project file moved from 'C:/Users/justi/Lab 6' since last save.SScanning sources...FFinished scanning sourcesINFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:24 ; elapsed = 00:00:13 . Memory (MB): peak = 904.055 ; gain = 26.727
+update_compile_order -fileset sources_1
+save_project_as {The Final Project} {C:/Users/justi/Desktop/CPE-487-Musical-Brick-Breaker/The Final Project} -force
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Nov  7 13:04:39 2019...
