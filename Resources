@@ -25,3 +25,7 @@ score++;
 else{
 nothing happens
 }
+
+FOR LOOP CODE
+--------------------------
+https://surf-vhdl.com/vhdl-for-loop-statement/#:~:targetText=In%20VHDL%20the%20FOR%2DLOOP,operation%20needs%20to%20be%20repeated.&targetText=This%20consideration%2C%20of%20course%2C%20is,in%20any%20VHDL%20code%20implementation.
